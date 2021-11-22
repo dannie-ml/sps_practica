@@ -37,7 +37,7 @@ Personalmente, la documentación o al menos el primer acercamiento para la reali
 }
 ```
 
-![image.png](attachment:5adc2b34-f9fc-4c5a-9e1e-8243e9794233.png)
+<img> (attachment:5adc2b34-f9fc-4c5a-9e1e-8243e9794233.png)
 
 
 #### Vamos ahora a obtener el mapping del índice anterior para posteriormente crear un template 
